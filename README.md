@@ -4,5 +4,6 @@ My Music Player is an android application designed and developed using XML and J
 ## Screenshots
 
 
-![MusicPlayer1](https://user-images.githubusercontent.com/78471553/143673952-79c32927-ae40-40d8-9f77-571f7fdd71b0.jpg)                            ![MusicPlayer2](https://user-images.githubusercontent.com/78471553/143673962-a12b644e-4639-4d1d-920b-a509ccfc038b.jpg)
+![MusicPlayer1](https://user-images.githubusercontent.com/78471553/143673952-79c32927-ae40-40d8-9f77-571f7fdd71b0.jpg)                            
+![MusicPlayer2](https://user-images.githubusercontent.com/78471553/143673962-a12b644e-4639-4d1d-920b-a509ccfc038b.jpg)
 
